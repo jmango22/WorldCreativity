@@ -2,12 +2,22 @@ body, html {
     font-family: sans-serif;
 }
 
+body {
+    width: 90%;
+    height: 70%;
+    padding: 10px;
+    border: solid;
+    border-radius: 8px;
+}
+
 #regions_div {
     width: 100%;
-    height: 600px;
+    height: 80%;
+    border: none;
+
 }
 
 #visualization {
     width: 100%;
-    height: 100px;
+    height: 20%;
 }

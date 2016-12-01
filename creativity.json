@@ -1,0 +1,257 @@
+{
+  "chapters": {
+    "Civilization: Creativity Begins to Flow" : {
+        "Domestication of grains": {
+            "dates" : [
+              {
+                "year" : "-4000",
+                "month" : "01",
+                "day" : "01"
+              },
+              {
+                "year" : "-3500",
+                "month" : "01",
+                "day" : "01"
+              }
+              ],
+            "locations" : {
+              "countries" : [
+                "Iraq",
+                "Egypt",
+                "India",
+                "China"
+              ],
+              "cities" : [
+                ]
+            }
+          },
+        "Establishment of cities in selected river valleys" : {
+          "dates" : [
+              {
+                "year" : "-4000",
+                "month" : "01",
+                "day" : "01"
+              },
+              {
+                "year" : "-3500",
+                "month" : "01",
+                "day" : "01"
+              }
+              ],
+            "locations" : {
+              "countries" : [
+                "Iraq",
+                "Egypt",
+                "India",
+                "China"
+              ],
+              "cities" : [
+                ]
+            }
+        },
+        "Division of labor in cities" : {
+          "dates" : [
+              {
+                "year" : "-3500",
+                "month" : "01",
+                "day" : "01"
+              }
+            ],
+          "locations" : {
+              "countries" : [
+              ],
+              "cities" : [
+                ]
+            }
+        },
+        "Establishment of a hierarchy within cities" : {
+          "dates" : [
+              {
+                "year" : "-3500",
+                "month" : "01",
+                "day" : "01"
+              }
+            ],
+          "locations" : {
+              "countries" : [
+              ],
+              "cities" : [
+                ]
+            }
+        },
+        "Creation of effective writing systems" : {
+        "dates" : [
+              {
+                "year" : "-3500",
+                "month" : "01",
+                "day" : "01"
+              }
+            ],
+          "locations" : {
+              "countries" : [
+              ],
+              "cities" : [
+              ]
+            }
+        }
+    },
+    "Mesopotamia: Seeds of Creativity" : {
+        "Initiation of the society" : {
+            "dates" : [
+            {
+                "year" : "-4000",
+                "month" : "01",
+                "day" : "01"
+            },
+            {
+                "year" : "-3000",
+                "month" : "01",
+                "day" : "01"
+            }
+            ],
+            "locations" : {
+                "countries" : [
+                ],
+                "cities" : [
+                ]
+            }
+        },
+        "Sumerians control Mesopotamia" : {
+            "dates" : [
+            {
+                "year" : "-3500",
+                "month" : "01",
+                "day" : "01"
+            },
+            {
+                "year" : "-2350",
+                "month" : "01",
+                "day" : "01"
+            }
+            ],
+            "locations" : {
+                "countries" : [
+                ],
+                "cities" : [
+                ]
+            }
+         },
+         "Akkadians (early Babylonians) control Mesopotamia" : {
+            "dates" : [
+            {
+                "year" : "-2350",
+                "month" : "01",
+                "day" : "01"
+            },
+            {
+                "year" : "-1650",
+                "month" : "01",
+                "day" : "01"
+            }
+            ],
+            "locations" : {
+                "countries" : [
+                ],
+                "cities" : [
+                ]
+            }
+         },
+         "Rule of Hammurabi" : {
+            "dates" : [
+            {
+                "year" : "-1750",
+                "month" : "01",
+                "day" : "01"
+            }
+            ],
+            "locations" : {
+                "countries" : [
+                ],
+                "cities" : [
+                ]
+            }
+         },
+         "Conquest by the Hittites" : {
+            "dates" : [
+            {
+                "year" : "-1650",
+                "month" : "01",
+                "year" : "01"
+            }
+            ],
+            "locations" : {
+            }
+         }
+    },
+    "Egypt: Creativity for Eternity" : {
+      
+    },
+    "India and China: Creativity Continues to Flow" : {
+      
+    },
+    "Minoan and Mycenaean Cultures: Trading Creativity" : {
+      
+    },
+    "Greek Archaic or Formative Period: Unique Concepts" : {
+      
+    },
+    "Classical Greece: Living Creativity" : {
+      
+    },
+    "Classical Greek Philosophy: The Form of Creativity" : {
+      
+    },
+    "Hellenism: Creativity for the World" : {
+
+    },
+    "Hellenistic Philosophy and Religion: Ethics, Truth, and Beauty" : {
+      
+    },
+    "Roman Republic: Governmental Creativity" : {
+      
+    },
+    "Roman Empire: Creative World Dominance" : {
+      
+    },
+    "Roman Science, Technology and Art: Thieves or Geniuses" : {
+      
+    },
+    "Early Christianity: Creatively Coping with Change" : {
+      
+    },
+    "Byzantium: Creativity Holding On" : {
+      
+    },
+    "Islam: Creativity in the Desert" : {
+      
+    },
+    "Early Medieval Europe: Creativity Dimmed" : { 
+      
+    },
+    "Nations, Crusades, and Mongols: Creativity Rekindled" :
+    {
+      
+    },
+    "Church and University: Creative Thinking" : {
+      
+    },
+    "Middle Ages Architecture: High Creativity" : {
+      
+    },
+    "Middle Ages Arts and Literature: To 'Hell' with Creativity" : {
+      
+    },
+    "End of the Middle Ages: Survival and Creative Change" : {
+      
+    },
+    "Age of Exploration: Discovering Creativity" : {
+      
+    },
+    "The Discovered World: Unknown Creativity" : {
+      
+    },
+    "Retrospective: Creativity Revisited" : {
+      
+    }
+  }
+}
