@@ -1,5 +1,5 @@
 {
-  "chapters": {
+  "chapters": [
     "Civilization: Creativity Begins to Flow" : {
         "Domestication of grains": {
             "dates" : [
@@ -267,44 +267,2232 @@
             }
          },
          "Conquest (coastal) by the Phoenicians/Sea People" : {
-
-         }
+           "dates" : [
+             {
+               "year" : "-1650",
+               "month" : "01",
+               "day" : "01"
+             }
+           ],
+           "locations" : {
+             "countries" : [
+               "Iraq",
+               "Syria",
+               "Lebanon",
+               "Israel",
+               "Kuwait",
+               "Egypt",
+               "India",
+               "China"
+             ],
+             "cities" : [
+             ]
+           }
+         },
+         "Height of Hebrew power (Saul, David, Solomon" : {
+           "dates" : [
+             {
+                "year" : "-1100",
+                "month" : "01",
+                "day" : "01"
+             },
+             {
+               "year" : "-1000",
+               "month" : "01",
+               "day" : "01"
+             }
+           ],
+           "locations" : {
+             "countries" : [
+               "Israel"
+             ],
+             "cities" : [
+               "Jerusalem"
+             ]
+           }
+         },
+         "Conquest by the Assyrians" : {
+           "dates" : [
+             {
+               "year" : "-900",
+               "month" : "01",
+               "day" : "01"
+             }
+           ],
+           "locations" : {
+             "countries" : [
+               "Iraq",
+               "Syria",
+               "Lebanon",
+               "Israel",
+               "Kuwait",
+               "Egypt",
+               "India",
+               "China"
+             ],
+             "cities" : [
+             ]
+           }
+         },
+         "Loss of the northern kingdom of Israel (10 tribes)" : {
+           "dates" : [
+             {
+               "year" : "-721",
+               "month" : "01",
+               "day" : "01"
+             }
+           ],
+           "locations" : {
+             "countries" : [
+               "Israel"
+             ],
+             "cities" : [
+               "Samaria",
+               "Nablus Governorate"
+             ]
+           }
+         },
+        "Rise of the Later Babylonian (Chaldean) empire" : {
+          "dates" : [
+            {
+              "year" : "-700",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+              "Iraq"
+            ],
+            "cities" : [
+              "Hillah"
+            ]
+          }
+        },
+        "Rise of the Medes" : {
+          "dates" : [
+            {
+              "year" : "-600",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+              "Iran",
+              "Iraq",
+              "Syria",
+              "Turkey",
+              "Armenia"
+            ],
+            "cities" : [
+              "Hamadan"
+            ]
+          }
+        },
+        "Rise of the Persians" : {
+          "dates" : [
+            {
+              "year" : "-500",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+              "Iran",
+              "Iraq",
+              "Kuwait",
+              "Syria",
+              "Israel",
+              "Lebanon",
+              "Jordan",
+              "Turkey",
+              "Armenia",
+              "Georgia",
+              "Greece",
+              "Egypt",
+              "Turkmenistan",
+              "Afghanistan",
+              "Pakistan",
+              "Libya"
+            ],
+            "cities" : [
+              "Pasargad"
+            ]
+          }
+        },
+        "Conquest of the Persians by Alexander the Great" : {
+          "dates" : [
+            {
+              "year" : "-333",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+              "Iran",
+              "Iraq",
+              "Kuwait",
+              "Syria",
+              "Israel",
+              "Lebanon",
+              "Jordan",
+              "Turkey",
+              "Armenia",
+              "Georgia",
+              "Greece",
+              "Egypt",
+              "Turkmenistan",
+              "Afghanistan",
+              "Pakistan",
+              "Libya"
+            ],
+            "cities" : [
+              "Giannitsa"
+            ]
+          }
+        },
+        "Conquest of Mesopotamian area by the Romans" : {
+          "dates" : [
+            {
+              "year" : "-50",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+              "Iran",
+              "Iraq",
+              "Kuwait",
+              "Syria",
+              "Israel",
+              "Lebanon",
+              "Jordan",
+              "Turkey",
+              "Armenia",
+              "Georgia",
+              "Greece",
+              "Egypt",
+              "Turkmenistan",
+              "Afghanistan",
+              "Pakistan",
+              "Libya",
+              "Tunisia",
+              "Morocco",
+              "Algeria",
+              "Portugal",
+              "Spain",
+              "France",
+              "England",
+              "Belgium",
+              "Luxembourg",
+              "Netherlands",
+              "Germany",
+              "Switzerland",
+              "Italy",
+              "Austria",
+              "Czech Republic",
+              "Slovakia",
+              "Slovenia",
+              "Croatia",
+              "Hungary",
+              "Bosnia and Herzegovina",
+              "Serbia",
+              "Albania",
+              "Greece",
+              "Macedonia",
+              "Romania",
+              "Bulgaria"
+            ],
+            "cities" : [
+              "Rome"
+            ]
+          }
+        }
     },
     "Egypt: Creativity for Eternity" : {
-      
+      "Pre-dynastic civilization begins" : {
+        "dates" : [
+          {
+            "year" : "-3500",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+            "Egypt"
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Old Kingdom" : {
+        "dates" : [
+          {
+            "year" : "-3100",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-2200",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+            "Egypt"
+          ],
+          "cities" : [
+            "Mit Rahina"
+          ]
+        }
+      },
+      "First Intermediate Period" : {
+        "dates" : [
+          {
+            "year" : "-2200",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-2000",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+            "Egypt"
+          ],
+          "cities" : [
+            "Ehnasia"
+          ]
+        }
+      },
+      "Middle Kingdom" : {
+        "dates" : [
+          {
+            "year" : "-2000",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-1800",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+            "Egypt"
+          ],
+          "cities" : [
+            "Luxor"
+          ]
+        }
+      },
+      "Second Intermediate Period" : {
+        "dates" : [
+          {
+            "year" : "-1800",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-1550",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+            "Egypt"
+          ],
+          "cities" : [
+            "Hemeida Village"
+          ]
+        }
+      },
+      "New Kingdom" : {
+        "dates" : [
+          {
+            "year" : "-1550",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-1050",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+            "Egypt"
+          ],
+          "cities" : [
+            "Luxor"
+          ]
+        }
+      },
+      "Third Intermediate Period" : {
+        "dates" : [
+          {
+            "year" : "-1050",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-700",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+            "Egypt"
+          ],
+          "cities" : [
+            "Qantir"
+          ]
+        }
+      },
+      "Late Period" : {
+        "dates" : [
+          {
+            "year" : "-700",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-31",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+            "Egypt"
+          ],
+          "cities" : [
+            "Alexandria"
+          ]
+        }
+      },
+      "Greek Period begins with Alexander and then the Ptolemies" : {
+        "dates" : [
+          {
+            "year" : "-332",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+            "Iran",
+            "Iraq",
+            "Kuwait",
+            "Syria",
+            "Israel",
+            "Lebanon",
+            "Jordan",
+            "Turkey",
+            "Armenia",
+            "Georgia",
+            "Greece",
+            "Egypt",
+            "Turkmenistan",
+            "Afghanistan",
+            "Pakistan",
+            "Libya"
+          ],
+          "cities" : [
+            "Alexandria"
+          ]
+        }
+      },
+      "Roman domination" : {
+        "dates": [
+          {
+            "year": "-31",
+            "month": "01",
+            "day": "01"
+          }
+        ],
+        "locations": {
+          "countries": [
+            "Iran",
+            "Iraq",
+            "Kuwait",
+            "Syria",
+            "Israel",
+            "Lebanon",
+            "Jordan",
+            "Turkey",
+            "Armenia",
+            "Georgia",
+            "Greece",
+            "Egypt",
+            "Turkmenistan",
+            "Afghanistan",
+            "Pakistan",
+            "Libya",
+            "Tunisia",
+            "Morocco",
+            "Algeria",
+            "Portugal",
+            "Spain",
+            "France",
+            "England",
+            "Belgium",
+            "Luxembourg",
+            "Netherlands",
+            "Germany",
+            "Switzerland",
+            "Italy",
+            "Austria",
+            "Czech Republic",
+            "Slovakia",
+            "Slovenia",
+            "Croatia",
+            "Hungary",
+            "Bosnia and Herzegovina",
+            "Serbia",
+            "Albania",
+            "Greece",
+            "Macedonia",
+            "Romania",
+            "Bulgaria"
+          ],
+          "cities": [
+            "Rome"
+          ]
+        }
+      }
     },
     "India and China: Creativity Continues to Flow" : {
-      
+      "Indian civilization established in the Indus River Valley" : {
+        "dates" : [
+          {
+            "year": "-2500",
+            "month": "01",
+            "day": "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+            "India"
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Chinese civilization established in the Yellow River Valley" : {
+        "dates" : [
+          {
+            "year" : "-2200",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+            "China"
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Hsia or Xia dynasty in China" : {
+        "dates" : [
+          {
+            "year" : "-2200",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-1700",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+            "China"
+          ],
+          "cities" : [
+            "Luoyang",
+            "Dengfeng",
+            "Gongyi",
+            "Puyang",
+            "Jiyuan",
+            "Kaifeng",
+            "Anyang"
+          ]
+        }
+      },
+      "Shang dynasty in China" : {
+        "dates" : [
+          {
+            "year" : "-1700",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-1000",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+            "China"
+          ],
+          "cities" : [
+            "Tai'an",
+            "Anyang",
+            "Xingtai",
+            "Qufu",
+            "Heze"
+          ]
+        }
+      },
+      "Aryan conquest of the Indus River civilization" : {
+        "dates" : [
+          {
+            "year" : "-1500",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Zhou dynasty in China" : {
+        "dates" : [
+          {
+            "year" : "-770",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-221",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+            "China"
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Life of Guatama Siddhartha (Buddha)" : {
+        "dates" : [
+          {
+            "year" : "-563",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-483",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Life of Confucius" : {
+        "dates" : [
+          {
+            "year" : "-551",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-479",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Life of Lao Tzu" : {
+        "dates" : [
+          {
+            "year" : "-550",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-470",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Ch'in or Qin dynasty" : {
+        "dates" : [
+          {
+            "year" : "-221",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-210",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Civil War" : {
+        "dates" : [
+          {
+            "year" : "-210",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-206",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Han dynasty" : {
+        "dates" : [
+          {
+            "year" : "-206",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "220",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      }
     },
     "Minoan and Mycenaean Cultures: Trading Creativity" : {
-      
+      "Establishment of the Minoan civilization on Crete" : {
+        "dates" : [
+          {
+            "year" : "-2000",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "End of the Minoan culture" : {
+        "dates" : [
+          {
+            "year" : "-1600",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Mycenaean culture" : {
+        "dates" : [
+          {
+            "year" : "-1600",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-1000",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Trojan War" : {
+        "dates" : [
+          {
+            "year" : "-1200",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Greek Dark Ages" : {
+        "dates" : [
+          {
+            "year" : "-1000",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-800",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      }
     },
     "Greek Archaic or Formative Period: Unique Concepts" : {
-      
+      "Greek Dark Ages" : {
+        "dates" : [
+          {
+            "year" : "-1000",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-800",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Homer dictates Iliad and Odyssey" : {
+        "dates" : [
+          {
+            "year" : "-780",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "The Olympic games are initiated" : {
+        "dates" : [
+          {
+            "year" : "-776",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Hesiod writes Theogony" : {
+        "dates" : [
+          {
+            "year" : "-700",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Thales initiates scientific thought" : {
+        "dates" : [
+          {
+            "year" : "-625",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Draco establishes rule by law for a whole commmunity" : {
+        "dates" : [
+          {
+            "year" : "-620",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Solon becomes the leader of Athens" : {
+        "dates" : [
+          {
+            "year" : "-594",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        },
+        "Aesop writes his fables" : {
+          "dates" : [
+            {
+              "year" : "-550",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        "Pythagoras promotes numbers as fundamentals" : {
+          "dates" : [
+            {
+              "year" : "-500",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        "The Battle of Marathon--Greeks defeat the Persians" : {
+          "dates" : [
+            {
+              "year" : "-490",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        "Spartans defeated by the Persians at Thermopylae" : {
+          "dates" : [
+            {
+              "year" : "-480",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        "Persians defeated and withdraw from mainland Greece" : {
+          "dates" : [
+            {
+              "year" : "-479",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        }
+      }
     },
     "Classical Greece: Living Creativity" : {
-      
+      "Thespis defines Greek drama, and plays begin" : {
+        "dates" : [
+          {
+            "year" : "-534",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Aeschylus, first of the great playwrights" : {
+        "dates" : [
+          {
+            "year" : "-525",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-456",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Sophocles, the second of the great playwrights" : {
+        "dates" : [
+          {
+            "year" : "-496",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-406",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Euripedes, the third of the great playwrights" : {
+        "dates" : [
+          {
+            "year" : "-484",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-406",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Herodotus, historian" : {
+        "dates" : [
+          {
+            "year" : "-484",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-420",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Pericles rules Athens" : {
+        "dates" : [
+          {
+            "year" : "-461",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-429",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Thucydides, historian" : {
+        "dates" : [
+          {
+            "year" : "-460",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-400",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Hippocrates, physician" : {
+        "dates" : [
+          {
+            "year" : "-460",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-370",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Aristophones, the fourth of the great playwrights, comedies" : {
+        "dates" : [
+          {
+            "year" : "-450",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-385",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Peloponnesian War" : {
+        "dates" : [
+          {
+            "year" : "-431",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-404",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      }
     },
     "Classical Greek Philosophy: The Form of Creativity" : {
-      
+      "Socrates" : {
+        "dates" : [
+          {
+            "year" : "-470",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-399",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Plato" : {
+        "dates" : [
+          {
+            "year" : "-427",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-347",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Aristotle" : {
+        "dates" : [
+          {
+            "year" : "-384",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-322",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      }
     },
     "Hellenism: Creativity for the World" : {
-
+      "Philip II becomes king in Macedonia" : {
+        "dates" : [
+          {
+            "year" : "-359",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Alexander becomes king of Macedonia and Greece" : {
+        "dates" : [
+          {
+            "year" : "-336",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Death of Alexander" : {
+        "dates" : [
+          {
+            "year" : "-323",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Euclid" : {
+        "dates" : [
+          {
+            "year" : "-330",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-260",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Archimedes" : {
+        "dates": [
+          {
+            "year": "-287",
+            "month": "01",
+            "day": "01"
+          },
+          {
+            "year": "-212",
+            "month": "01",
+            "day": "01"
+          }
+        ],
+        "locations": {
+          "countries": [
+          ],
+          "cities": [
+          ]
+        }
+      }
     },
     "Hellenistic Philosophy and Religion: Ethics, Truth, and Beauty" : {
-      
+      "Jews allowed to return to Jerusalem from Babylon" : {
+        "dates" : [
+          {
+            "year" : "-538",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Zenos founds the Stoics" : {
+        "dates" : [
+          {
+            "year" : "-335",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-262",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Epicurus founds the Epicureans" : {
+        "dates" : [
+          {
+            "year" : "-340",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-270",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Greek control of Palestine under the Seleucids" : {
+        "dates" : [
+          {
+            "year" : "-332",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Maccabean revolt" : {
+        "dates" : [
+          {
+            "year" : "-175",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Romans conquer Palestine" : {
+        "dates" : [
+          {
+            "year" : "-63",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Herod becomes king of the Jews" : {
+        "dates" : [
+          {
+            "year" : "-37",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Romans destroy Jerusalem to end a revolt" : {
+        "dates" : [
+          {
+            "year" : "70",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      }
     },
     "Roman Republic: Governmental Creativity" : {
-      
+      "Legendary founding of the Roman people by Aeneas" : {
+        "dates" : [
+          {
+            "year" : "-1100",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Founding of the city of Rome by Romulus (and Remus)" : {
+        "dates" : [
+          {
+            "year" : "-753",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Regal period (7 kings)" : {
+        "dates" : [
+          {
+            "year" : "-753",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-509",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Founding of the Roman Republic" : {
+        "dates" : [
+          {
+            "year" : "-509",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "The three Punic Wars" : {
+        "dates" : [
+          {
+            "year" : "-264",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-146",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Rome completes its conquest of Greece" : {
+        "dates" : [
+          {
+            "year" : "-146",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Gracchus brothers defy Roman rules of government" : {
+        "dates" : [
+          {
+            "year" : "-130",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Marius rules Rome" : {
+        "dates" : [
+          {
+            "year" : "-105",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Sulla rules Rome" : {
+        "dates" : [
+          {
+            "year" : "-86",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "The triumvirate rules Rome" : {
+        "dates" : [
+          {
+            "year" : "-60",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Death of Caesar" : {
+        "dates" : [
+          {
+            "year" : "-44",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Battle of Actium (Octavius defeats Mark Anthony and Cleopatra)" : {
+        "dates" : [
+          {
+            "year" : "-31",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Death of Mark Anthony and rule by Octavian" : {
+        "dates" : [
+          {
+            "year" : "-30",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      }
     },
     "Roman Empire: Creative World Dominance" : {
-      
+      "Reign of Octavian (Augustus) begins" : {
+        "dates" : [
+          {
+            "year" : "-27",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Julio-Claudians" : {
+        "dates" : [
+          {
+            "year" : "-27",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "69",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Flavians" : {
+        "dates" : [
+          {
+            "year" : "69",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "96",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Nervan-Antonians" : {
+        "dates" : [
+          {
+            "year" : "96",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "193",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Crisis in the Third Century" : {
+        "dates" : [
+          {
+            "year" : "193",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "284",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Tetrarchy" : {
+        "dates" : [
+          {
+            "year" : "284",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "308",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Constantine" : {
+        "dates" : [
+          {
+            "year" : "308",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "337",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Post-Constantinians" : {
+        "dates" : [
+          {
+            "year" : "337",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "476",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Last of the western emperors resigns" : {
+        "dates" : [
+          {
+            "year" : "476",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      }
     },
     "Roman Science, Technology and Art: Thieves or Geniuses" : {
-      
+      "Pantheon constructed" : {
+        "dates" : [
+          {
+            "year" : "126",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Ptolemy" : {
+        "dates" : [
+          {
+            "year" : "100",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "170",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Galen" : {
+        "dates" : [
+          {
+            "year" : "130",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "220",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Cicero" : {
+        "dates" : [
+          {
+            "year" : "-106",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "-43",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Virgil" : {
+        "dates" : [
+          {
+            "year" : "-70",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "19",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Seneca" : {
+        "dates" : [
+          {
+            "year" : "-3",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "65",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      }
     },
     "Early Christianity: Creatively Coping with Change" : {
-      
+      "Death and resurrection of Jesus Christ" : {
+        "dates" : [
+          {
+            "year" : "33",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Death of Peter and Paul" : {
+        "dates" : [
+          {
+            "year" : "64",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Probable date of the last-written New Testament book" : {
+        "dates" : [
+          {
+            "year" : "96",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Writings of the Church Fathers" : {
+        "dates" : [
+          {
+            "year" : "100",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "200",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Wars of the bishops over control of local congregations" : {
+        "dates" : [
+          {
+            "year" : "200",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "300",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Rise of monasticism" : {
+        "dates" : [
+          {
+            "year" : "200",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "350",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Height of official Roman persecution" : {
+        "dates" : [
+          {
+            "year" : "300",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Constantine" : {
+        "dates" : [
+          {
+            "year" : "308",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "337",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Nicene Council" : {
+        "dates" : [
+          {
+            "year" : "325",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Jerome solidifies official canon of scripture" : {
+        "dates" : [
+          {
+            "year" : "406",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Augustine is bishop in Hippo" : {
+        "dates" : [
+          {
+            "year" : "420",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "450",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Fall of the western Roman Empire" : {
+        "dates" : [
+          {
+            "year" : "476",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      },
+      "Life of Pope Gregory I" : {
+        "dates" : [
+          {
+            "year" : "540",
+            "month" : "01",
+            "day" : "01"
+          },
+          {
+            "year" : "604",
+            "month" : "01",
+            "day" : "01"
+          }
+        ],
+        "locations" : {
+          "countries" : [
+          ],
+          "cities" : [
+          ]
+        }
+      }
     },
     "Byzantium: Creativity Holding On" : {
       
@@ -340,5 +2528,5 @@
     "Retrospective: Creativity Revisited" : {
       
     }
-  }
+  ]
 }
