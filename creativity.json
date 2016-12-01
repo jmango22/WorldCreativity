@@ -17,6 +17,10 @@
             "locations" : {
               "countries" : [
                 "Iraq",
+                "Syria",
+                "Lebanon",
+                "Israel",
+                "Kuwait",
                 "Egypt",
                 "India",
                 "China"
@@ -41,12 +45,22 @@
             "locations" : {
               "countries" : [
                 "Iraq",
+                "Syria",
+                "Lebanon",
+                "Israel",
+                "Kuwait",
                 "Egypt",
                 "India",
                 "China"
               ],
               "cities" : [
-                ]
+                "Tell Abu Shahrain",
+                "Al-Khidhr",
+                "Shush",
+                "Girga",
+                "Udaipur",
+                "Luoyang"
+              ]
             }
         },
         "Division of labor in cities" : {
@@ -61,6 +75,12 @@
               "countries" : [
               ],
               "cities" : [
+                "Tell Abu Shahrain",
+                "Al-Khidhr",
+                "Shush",
+                "Girga",
+                "Udaipur",
+                "Luoyang"
                 ]
             }
         },
@@ -76,6 +96,12 @@
               "countries" : [
               ],
               "cities" : [
+                "Tell Abu Shahrain",
+                "Al-Khidhr",
+                "Shush",
+                "Girga",
+                "Udaipur",
+                "Luoyang"
                 ]
             }
         },
@@ -89,8 +115,22 @@
             ],
           "locations" : {
               "countries" : [
+                "Iraq",
+                "Syria",
+                "Lebanon",
+                "Israel",
+                "Kuwait",
+                "Egypt",
+                "India",
+                "China"
               ],
               "cities" : [
+                "Tell Abu Shahrain",
+                "Al-Khidhr",
+                "Shush",
+                "Girga",
+                "Udaipur",
+                "Luoyang"
               ]
             }
         }
@@ -111,6 +151,14 @@
             ],
             "locations" : {
                 "countries" : [
+                  "Iraq",
+                  "Syria",
+                  "Lebanon",
+                  "Israel",
+                  "Kuwait",
+                  "Egypt",
+                  "India",
+                  "China"
                 ],
                 "cities" : [
                 ]
@@ -131,6 +179,14 @@
             ],
             "locations" : {
                 "countries" : [
+                  "Iraq",
+                  "Syria",
+                  "Lebanon",
+                  "Israel",
+                  "Kuwait",
+                  "Egypt",
+                  "India",
+                  "China"
                 ],
                 "cities" : [
                 ]
@@ -151,6 +207,14 @@
             ],
             "locations" : {
                 "countries" : [
+                  "Iraq",
+                  "Syria",
+                  "Lebanon",
+                  "Israel",
+                  "Kuwait",
+                  "Egypt",
+                  "India",
+                  "China"
                 ],
                 "cities" : [
                 ]
@@ -166,6 +230,14 @@
             ],
             "locations" : {
                 "countries" : [
+                  "Iraq",
+                  "Syria",
+                  "Lebanon",
+                  "Israel",
+                  "Kuwait",
+                  "Egypt",
+                  "India",
+                  "China"
                 ],
                 "cities" : [
                 ]
@@ -176,11 +248,26 @@
             {
                 "year" : "-1650",
                 "month" : "01",
-                "year" : "01"
+                "day" : "01"
             }
             ],
             "locations" : {
+              "countries" : [
+                "Iraq",
+                "Syria",
+                "Lebanon",
+                "Israel",
+                "Kuwait",
+                "Egypt",
+                "India",
+                "China"
+              ],
+              "cities" : [
+              ]
             }
+         },
+         "Conquest (coastal) by the Phoenicians/Sea People" : {
+
          }
     },
     "Egypt: Creativity for Eternity" : {
