@@ -2664,67 +2664,2695 @@
     {
       "title" : "Byzantium: Creativity Holding On",
       "events" : [
-
+        {
+          "name" : "Fall of the western Roman Empire",
+          "dates" : [
+            {
+              "year" : "476",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Zeno rules in Byzantium",
+          "dates" : [
+            {
+              "year" : "474",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "491",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Anastasium I, emperor in the east",
+          "dates" : [
+            {
+              "year" : "491",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "518",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Justin rules",
+          "dates" : [
+            {
+              "year" : "518",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "527",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Justinian I, emperor of the east",
+          "dates" : [
+            {
+              "year" : "527",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "565",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Nike revolt",
+          "dates" : [
+            {
+              "year" : "532",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Emperor Leo III declares that icons be destroyed",
+          "dates" : [
+            {
+              "year" : "726",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "New Prosperity for Byzantine Empire",
+          "dates" : [
+            {
+              "year" : "867",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1081",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Formal split between the Roman and Eastern Churches",
+          "dates" : [
+            {
+              "year" : "1024",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Constantinople sacked by the Fourth Crusade",
+          "dates" : [
+            {
+              "year" : "1204",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Fall of Constantinople and end of the Byzantine Empire",
+          "dates" : [
+            {
+              "year" : "1453",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        }
       ]
     },
     {
       "title" : "Islam: Creativity in the Desert",
       "events" : [
-
+        {
+          "name" : "Birth of Muhammad",
+          "dates" : [
+            {
+              "year" : "570",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Founding of Islam",
+          "dates" : [
+            {
+              "year" : "610",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "The Hegira",
+          "dates" : [
+            {
+              "year" : "622",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Death of Muhammad",
+          "dates" : [
+            {
+              "year" : "632",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Rule by the four good Caliphs",
+          "dates" : [
+            {
+              "year" : "632",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "661",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Umayyad Dynasty",
+          "dates" : [
+            {
+              "year" : "661",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "750",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Abbasid Dynasty",
+          "dates" : [
+            {
+              "year" : "750",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1258",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Fatimids control Egypt and the Levant",
+          "dates" : [
+            {
+              "year" : "969",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1171",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Christian crusades",
+          "dates" : [
+            {
+              "year" : "1095",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1291",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Saladin rules over Egypt and the Levant",
+          "dates" : [
+            {
+              "year" : "1169",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1193",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Seljuk Turks reign over Persia and Turkey",
+          "dates" : [
+            {
+              "year" : "1071",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1260",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Mamluk Dynasty in Egypt",
+          "dates" : [
+            {
+              "year" : "1260",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1517",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Mughal Dynasty in Persia and India",
+          "dates" : [
+            {
+              "year" : "1526",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1858",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Ottoman Turk Empire",
+          "dates" : [
+            {
+              "year" : "1382",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1919",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        }
       ]
     },
     {
       "title" : "Early Medieval Europe: Creativity Dimmed",
       "events" : [
-
+        {
+          "name" : "Julius Caesar invaded Britain and then abandoned it",
+          "dates" : [
+            {
+              "year" : "-55",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "-54",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Conquest of Britain by the Romans",
+          "dates" : [
+            {
+              "year" : "55",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Revolt by Queen Boadicea",
+          "dates" : [
+            {
+              "year" : "122",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Romans abandon Britain",
+          "dates" : [
+            {
+              "year" : "409",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Anglo-Saxon conquest of Britain",
+          "dates" : [
+            {
+              "year" : "409",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "570",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Battle of Mount Baden, possibly won by King Arthur",
+          "dates" : [
+            {
+              "year" : "500",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Fall of the Western Roman Empire",
+          "dates" : [
+            {
+              "year" : "476",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Rule of Theodoric the Goth",
+          "dates" : [
+            {
+              "year" : "476",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "524",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Lief of Boethus, who established 7-subject curriculum",
+          "dates" : [
+            {
+              "year" : "480",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "525",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Life of St. Benedict, who revised monastic rules",
+          "dates" : [
+            {
+              "year" : "480",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "547",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Reign of Clovis I, founder of the Merovingian Dynasty",
+          "dates" : [
+            {
+              "year" : "481",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "511",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Rule of Pope Gregory I",
+          "dates" : [
+            {
+              "year" : "590",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "604",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Battle of Tours stopped the Muslim advance in Europe",
+          "dates" : [
+            {
+              "year" : "732",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Pepin the Short established the Carolingian Dynasty",
+          "dates" : [
+            {
+              "year" : "751",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Reign of Charlemagne",
+          "dates" : [
+            {
+              "year" : "768",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "814",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Charlemagne named Holy Roman Emperor",
+          "dates" : [
+            {
+              "year" : "800",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Charlemagne's kingdom divided by his grandsons",
+          "dates" : [
+            {
+              "year" : "843",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Invasions of the Norseman, Magyars, and Muslims",
+          "dates" : [
+            {
+              "year" : "900",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1000",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        }
       ]
     },
     {
       "title" : "Nations, Crusades, and Mongols: Creativity Rekindled",
       "events" : [
-
+        {
+          "name" : "Reign of Alfred the Great of England",
+          "dates" : [
+            {
+              "year" : "871",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "901",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Otto I crowned Holy Roman Emperor in Germany",
+          "dates" : [
+            {
+              "year" : "962",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Hugh Capet begins reign as French king",
+          "dates" : [
+            {
+              "year" : "987",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Warm weather and other factors lead to increase in towns",
+          "dates" : [
+            {
+              "year" : "1000",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "William I of Normandy successfully invades England",
+          "dates" : [
+            {
+              "year" : "1066",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Pope Gregory VII elected, conflict with Henry IV",
+          "dates" : [
+            {
+              "year" : "1088",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "First Crusade, ends in the capture of Jerusalem",
+          "dates" : [
+            {
+              "year" : "1096",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1099",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Henry II rules England",
+          "dates" : [
+            {
+              "year" : "1133",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1189",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Second Crusade, led by Louis VII of France",
+          "dates" : [
+            {
+              "year" : "1145",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1149",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Frederick I (Barbarossa) rules in Germany",
+          "dates" : [
+            {
+              "year" : "1152",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1190",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Mongols raid in Asia, Middle East, and Europe",
+          "dates" : [
+            {
+              "year" : "1162",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1294",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Invention of the windmill",
+          "dates" : [
+            {
+              "year" : "1185",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Third Crusade, led by Richard I, Frederick I, Phillip II",
+          "dates" : [
+            {
+              "year" : "1187",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1192",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Fourth Crusade, sacks Constantinople",
+          "dates" : [
+            {
+              "year" : "1198",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1204",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "John rules England",
+          "dates" : [
+            {
+              "year" : "1199",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1216",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Liber Abaci establishes Arabic/Indian numerals",
+          "dates" : [
+            {
+              "year" : "1202",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Children's Crusade",
+          "dates" : [
+            {
+              "year" : "1212",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Signing of Magna Carta",
+          "dates" : [
+            {
+              "year" : "1215",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Fifth Crusade, against Egypt",
+          "dates" : [
+            {
+              "year" : "1217",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1221",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Sixth Crusade",
+          "dates" : [
+            {
+              "year" : "1228",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1229",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Seventh Crusade",
+          "dates" : [
+            {
+              "year" : "1248",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1254",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Eighth Crusade",
+          "dates" : [
+            {
+              "year" : "1270",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Marco Polo travels to China",
+          "dates" : [
+            {
+              "year" : "1275",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1292",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        }
       ]
     },
     {
       "title" : "Church and University: Creative Thinking",
       "events" : [
-
+        {
+          "name" : "Peter Abelard",
+          "dates" : [
+            {
+              "year" : "1079",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1142",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Bernard of Clairvaux",
+          "dates" : [
+            {
+              "year" : "1090",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1153",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Lateran Councils",
+          "dates" : [
+            {
+              "year" : "1123",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1215",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "University of Paris formally established",
+          "dates" : [
+            {
+              "year" : "1150",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Franciscan Order established",
+          "dates" : [
+            {
+              "year" : "1209",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Dominican Order established",
+          "dates" : [
+            {
+              "year" : "1215",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Thomas Aquinas",
+          "dates" : [
+            {
+              "year" : "1225",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1274",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name": "Inquisition established",
+          "dates" : [
+            {
+              "year" : "1231",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        }
       ]
     },
     {
       "title" : "Middle Ages Architecture: High Creativity",
       "events" : [
-
+        {
+          "name" : "Hagia Sophia rebuilt by Emperor Justinian",
+          "dates" : [
+            {
+              "year" : "532",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Period of Romanesque architecture",
+          "dates" : [
+            {
+              "year" : "500",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1100",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Abbot Suger remodeled St. Denis in Gothic style",
+          "dates" : [
+            {
+              "year" : "1150",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Notre Dame de Paris built",
+          "dates" : [
+            {
+              "year" : "1163",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1285",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Chartres Cathedral built",
+          "dates" : [
+            {
+              "year" : "1194",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1260",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Sainte-Chapelle built",
+          "dates" : [
+            {
+              "year" : "1248",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        }
       ]
     },
     {
       "title" : "Middle Ages Arts and Literature: To 'Hell' with Creativity",
       "events" : [
-
+        {
+          "name" : "Gregorian chants authorized by Pope Gregory I",
+          "dates" : [
+            {
+              "year" : "600",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Guido D'Arezzo develops musical notation",
+          "dates" : [
+            {
+              "year" : "990",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1050",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Organum developed",
+          "dates" : [
+            {
+              "year" : "1000",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Arthurian legends appear in popular literature",
+          "dates" : [
+            {
+              "year" : "1000",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Leonin is first composer recognized by name",
+          "dates" : [
+            {
+              "year" : "1163",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1190",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Troubadour music begins",
+          "dates" : [
+            {
+              "year" : "1150",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Motet developed",
+          "dates" : [
+            {
+              "year" : "1200",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Ars Nova developed",
+          "dates" : [
+            {
+              "year" : "1300",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Dante Alighieri",
+          "dates" : [
+            {
+              "year" : "1265",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1321",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Publication of the Divine Comedy",
+          "dates" : [
+            {
+              "year" : "1319",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1321",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Giotto di Bondone",
+          "dates" : [
+            {
+              "year" : "1267",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1337",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Francesco Petrarch",
+          "dates" : [
+            {
+              "year" : "1304",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1374",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Geoffrey Chaucer",
+          "dates" : [
+            {
+              "year" : "1340",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1400",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Writing and publication of Canterbury Tales",
+          "dates" : [
+            {
+              "year" : "1387",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1400",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        }
       ]
     },
     {
       "title" : "End of the Middle Ages: Survival and Creative Change",
       "events" : [
-
+        {
+          "name" : "Conflict between King Philip IV Pope Boniface VIII",
+          "dates" : [
+            {
+              "year" : "1304",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Avignon Papacy",
+          "dates" : [
+            {
+              "year" : "1309",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1378",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Hundred Years War",
+          "dates" : [
+            {
+              "year" : "1337",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1453",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Beginning of the Great Plague",
+          "dates" : [
+            {
+              "year" : "1347",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "The Great Schism",
+          "dates" : [
+            {
+              "year" : "1378",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1415",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Mechanical locks invented",
+          "dates" : [
+            {
+              "year" : "1400",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Joan of Arc",
+          "dates" : [
+            {
+              "year" : "1412",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1431",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Gutenberg invents movable type and printing press",
+          "dates" : [
+            {
+              "year" : "1455",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        }
       ]
     },
     {
       "title" : "Age of Exploration: Discovering Creativity",
       "events" : [
-
+        {
+          "name" : "Henry the Navigator",
+          "dates" : [
+            {
+              "year" : "1394",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1460",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Constantinople falls to the Ottoman Turks",
+          "dates" : [
+            {
+              "year" : "1453",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Diaz discovers Cape of Good Hope",
+          "dates" : [
+            {
+              "year" : "1487",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1488",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Columbus discovers Americas",
+          "dates" : [
+            {
+              "year" : "1492",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Treaty of Tordesillas",
+          "dates" : [
+            {
+              "year" : "1493",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1494",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Da Gama sails to India",
+          "dates" : [
+            {
+              "year" : "1497",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1499",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Cabot sails to America for England",
+          "dates" : [
+            {
+              "year" : "1497",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Magellan's voyage around the world",
+          "dates" : [
+            {
+              "year" : "1519",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1522",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Cortes in Mexico",
+          "dates" : [
+            {
+              "year" : "1519",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1521",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Cartier exploration of America for France",
+          "dates" : [
+            {
+              "year" : "1533",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Drake circumnavigates the world",
+          "dates" : [
+            {
+              "year" : "1577",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1580",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        }
       ]
     },
     {
       "title" : "The Discovered World: Unknown Creativity",
       "events" : [
-
-      ]
-    },
-    {
-      "title" : "Retrospective: Creativity Revisited",
-      "events" : [
-
+        {
+          "name" : "Olmecs occupy Mexico",
+          "dates" : [
+            {
+              "year" : "-2200",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "-400",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Kingdom of Sheba (probably in Africa)",
+          "dates" : [
+            {
+              "year" : "-970",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Kush kingdom dominates southern Nile area",
+          "dates" : [
+            {
+              "year" : "-750",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "350",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Mayan Civilization in Mexico and Central America",
+          "dates" : [
+            {
+              "year" : "-400",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "850",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Qin Dynasty in China",
+          "dates" : [
+            {
+              "year" : "-221",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "-207",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Han Dynasty in China",
+          "dates" : [
+            {
+              "year" : "-206",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "220",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Period of chaos and intellectual darkness in China",
+          "dates" : [
+            {
+              "year" : "220",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "618",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Gupta Empire in India",
+          "dates" : [
+            {
+              "year" : "320",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "535",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "The Great Zimbabwe dominates southern Africa",
+          "dates" : [
+            {
+              "year" : "500",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1600",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Hun invasion of India, followed by minor Hindu rulers",
+          "dates" : [
+            {
+              "year" : "535",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Nara (Yamato) Period in Japan",
+          "dates" : [
+            {
+              "year" : "538",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "794",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Tang Dynasty in China",
+          "dates" : [
+            {
+              "year" : "618",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "960",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Wu Zetian rules China as only female Emperor",
+          "dates" : [
+            {
+              "year" : "690",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "705",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Toltecs settle in Mexico",
+          "dates" : [
+            {
+              "year" : "700",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1200",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Muslims conquer India and establish the Delhi Sultanate",
+          "dates" : [
+            {
+              "year" : "750",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Heian age in Japan",
+          "dates" : [
+            {
+              "year" : "794",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1185",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Song Dynasty in China",
+          "dates" : [
+            {
+              "year" : "960",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1259",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Kamakura Period in Japan",
+          "dates" : [
+            {
+              "year" : "1185",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1333",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Aztec period in Mexico",
+          "dates" : [
+            {
+              "year" : "1200",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1550",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Yuan (Mongol) Dynasty in China",
+          "dates" : [
+            {
+              "year" : "1259",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1368",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Muromachi-Momoyama Period in Japan",
+          "dates" : [
+            {
+              "year" : "1333",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1603",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Ming Dynasty in China",
+          "dates" : [
+            {
+              "year" : "1368",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1644",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Tamarlane conquers the Delhi Sultanate",
+          "dates" : [
+            {
+              "year" : "1398",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Babur establishes the Mughal Empire in India",
+          "dates" : [
+            {
+              "year" : "1526",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Edo Period in Japan",
+          "dates" : [
+            {
+              "year" : "1603",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1868",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        },
+        {
+          "name" : "Qing (Manchurian) Dynasty in China",
+          "dates" : [
+            {
+              "year" : "1644",
+              "month" : "01",
+              "day" : "01"
+            },
+            {
+              "year" : "1911",
+              "month" : "01",
+              "day" : "01"
+            }
+          ],
+          "locations" : {
+            "countries" : [
+            ],
+            "cities" : [
+            ]
+          }
+        }
       ]
     }
   ]

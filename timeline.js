@@ -2,7 +2,28 @@
  * Created by Jon on 11/22/2016.
  */
 
+//console.log("original file: "+json);
 
+for (var chapter in json.chapters)
+{
+    console.log(json.chapters[chapter].title);
+    for ( var event in json.chapters[chapter].events )
+    {
+        console.log("  "+json.chapters[chapter].events[event].name);
+        for( var date in json.chapters[chapter].events[event].dates) {
+            console.log("    "+json.chapters[chapter].events[event].dates[date].month+"/"+json.chapters[chapter].events[event].dates[date].day+"/"+json.chapters[chapter].events[event].dates[date].year);
+        }
+
+        for( var location in json.chapters[chapter].events[event].locations) {
+            for( var country in json.chapters[chapter].events[event].locations[location].countries) {
+                console.log("    "+json.chapters[chapter].events[event].locations[location].countries[country].value);
+            }
+            for( var city in json.chapters[chapter].events[event].locations[location].cities) {
+                console.log("    "+json.chapters[chapter].events[event].locations[location].cities[city].value);
+            }
+        }
+    }
+}
 
 google.charts.load('upcoming', {'packages':['geochart']});
 google.charts.setOnLoadCallback(drawRegionsMap);
@@ -34,9 +55,9 @@ function drawTimeLine() {
 
     // Create a DataSet (allows two way data-binding)
     var items = new vis.DataSet([
-        {id: 1, content: 'Demo Date', start: new Date(-3200, 04, 20)},
+        {id: 1, content: 'Demo Date', start: new Date(-4000, 04, 20)},
         {id: 2, content: 'Demo Date', start: new Date(-500, 04, 14)},
-        {id: 3, content: 'Demo Date', start: new Date(2013, 04, 21)},
+        {id: 3, content: 'Demo Date', start: new Date(1600, 04, 21)},
         {id: 4, content: 'Demo Period', start: new Date(-200, 02, 10), end: new Date(200, 01, 09)}
     ]);
 
