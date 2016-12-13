@@ -1,0 +1,297 @@
+[
+  {
+    "name" : "Old Kingdom Egypt: concept of zero and ten",
+    "dates" : [
+      {
+        "year" : "-2686",
+        "month" : "01",
+        "day" : "01"
+      },
+      {
+        "year" : "-2181",
+        "month" : "01",
+        "day" : "01"
+      }
+    ],
+    "cities" : [
+      {
+        "Lat" : "29.844722",
+        "Long" : "31.250833",
+        "name" : "Memphis"
+      }
+    ],
+    "region" : "EG",
+    "details" : "The Egyptians developed a number system based on the number 10. The concept of 10 is a driving force in binary, and you have 0, 1, and 10 as the numbers."
+  },
+  {
+    "name" : "Thales",
+    "dates" : [
+      {
+        "year" : "-624",
+        "month" : "01",
+        "day" : "01"
+      },
+      {
+        "year" : "-546",
+        "month" : "01",
+        "day" : "01"
+      }
+    ],
+    "cities" : [
+      {
+        "Lat" : "37.530278",
+        "Long" : "27.278333",
+        "name" : "Miletus"
+      }
+    ],
+    "region" : "TR",
+    "details" : "Thales thought that all events can be explained in natural terms that can be understood by humans. This shift in thinking started mankinds ability to discover science and technology."
+  },
+  {
+    "name" : "Pythagoras",
+    "dates" : [
+      {
+        "year" : "-570",
+        "month" : "01",
+        "day" : "01"
+      },
+      {
+        "year" : "-495",
+        "month" : "01",
+        "day" : "01"
+      }
+    ],
+    "cities" : [
+      "Samos",
+      "Crotone"
+    ],
+    "region" : "015",
+    "details" : "The inventor of mathematics. He created a system for expressing equation (such as 2 + 2 = 4)"
+  },
+  {
+    "name" : "Euclid",
+    "dates" : [
+      {
+        "year" : "-480",
+        "month" : "01",
+        "day" : "01"
+      },
+      {
+        "year" : "-330",
+        "month" : "01",
+        "day" : "01"
+      }
+    ],
+    "cities" : [
+      "Alexandria, Egypt"
+    ],
+    "region" : "015",
+    "details" : "Exact birth year and death year are unknown. Euclid used the foundation of Pythagoras' work to write a math text that was used for nearly 2,000 years."
+  },
+  {
+    "name" : "Democritus",
+    "dates" : [
+      {
+        "year" : "-460",
+        "month" : "01",
+        "day" : "01"
+      },
+      {
+        "year" : "-370",
+        "month" : "01",
+        "day" : "01"
+      }
+    ],
+    "cities" : [
+      "Genisea"
+    ],
+    "region" : "015",
+    "details" : "The champion of the Atomists. The Atomists proposed that all matter and even immaterial things are made up of tiny indivisible particles called 'atoms'."
+  },
+  {
+    "name" : "Plato",
+    "dates" : [
+      {
+        "year" : "-427",
+        "month" : "01",
+        "day" : "01"
+      },
+      {
+        "year" : "-348",
+        "month" : "01",
+        "day" : "01"
+      }
+    ],
+    "cities" : [
+      "Athens"
+    ],
+    "region" : "015",
+    "details" : "Created the worlds first university called the Academy."
+  },
+  {
+    "name" : "Hippocrates",
+    "dates" : [
+      {
+        "year" : "-460",
+        "month" : "01",
+        "day" : "01"
+      },
+      {
+        "year" : "-370",
+        "month" : "01",
+        "day" : "01"
+      }
+    ],
+    "cities" : [
+      "Kos",
+      "Larissa"
+    ],
+    "region" : "015'",
+    "details" : "Extended science to medicine. Proved that science can improve human life."
+  },
+  {
+    "name" : "Aristotle",
+    "dates" : [
+      {
+        "year" : "-384",
+        "month" : "01",
+        "day" : "01"
+      },
+      {
+        "year" : "-322",
+        "month" : "01",
+        "day" : "01"
+      }
+    ],
+    "cities" : [
+      "Athens",
+      "Olimpiada",
+      "Euboea"
+    ],
+    "region" : "105",
+    "details" : "Creator of the scientific method, he laid the foundation for future discovery."
+  },
+  {
+    "name" : "Algebra",
+    "dates" : [
+      {
+        "year" : "800",
+        "month" : "01",
+        "day" : "01"
+      }
+    ],
+    "cities" : [
+      "Bagdad"
+    ],
+    "region" : "015",
+    "details" : "An important part of mathematics which was invented by the Muslims."
+  },
+  {
+    "name" : "Archimedes",
+    "dates" : [
+      {
+        "year" : "-287",
+        "month" : "01",
+        "day" : "01"
+      },
+      {
+        "year" : "-212",
+        "month" : "01",
+        "day" : "01"
+      }
+    ],
+    "cities" : [
+      "Syracuse, Italy"
+    ],
+    "region" : "105",
+    "details" : "The inventor of scientific notation, Archimedes also made significant contributions to mechanics, hydraulics, warfare, mathematics, and astronomy. Newton used his principles as a starting point for his own work."
+  },
+  {
+    "name" : "Hero of Alexandria",
+    "dates" : [
+      {
+        "year" : "0010",
+        "month" : "01",
+        "day" : "01"
+      },
+      {
+        "year" : "0070",
+        "month" : "01",
+        "day" : "01"
+      }
+    ],
+    "cities" : [
+      "Alexandria, Egypt"
+    ],
+    "region" : "015",
+    "details" : "A Roman Greek inventor, Hero created a kind of steam engine. Sadly, his work was ignored by the Roman Empire."
+  },
+  {
+    "name" : "Ibn Sina (Avicenna)",
+    "dates" : [
+      {
+        "year" : "980",
+        "month" : "08",
+        "day" : "22"
+      },
+      {
+        "year" : "1037",
+        "month" : "06",
+        "day" : "21"
+      }
+    ],
+    "cities" : [
+      "Bukhara",
+      "Köneürgench",
+      "Gorgan",
+      "Tehran",
+      "Hamedan"
+    ],
+    "region" : "015",
+    "details" : "Muslim scientist who wrote nearly 450 books on topics such as philosophy, logic, medicine, astronomy, theology, psychology, poetry, physics, metaphysics, astrology, pharmacology, exercise science, mathematics, chemistry, and earth sciences."
+  },
+  {
+    "name" : "Ibn Rushd (Averroës)",
+    "dates" : [
+      {
+        "year" : "1126",
+        "month" : "04",
+        "day" : "14"
+      },
+      {
+        "year" : "1198",
+        "month" : "12",
+        "day" : "10"
+      }
+    ],
+    "cities" : [
+      "Córdoba",
+      "Seville",
+      "Marrakesh"
+    ],
+    "region" : "015",
+    "details" : "Muslim thinker who presevered and provided commentary on Aristotles work. His work lead to European Scholasticism in the 13th century."
+  },
+  {
+    "name" : "Mechanical Clock",
+    "dates" : [
+      {
+        "year" : "1280",
+        "month" : "01",
+        "day" : "01"
+      },
+      {
+        "year" : "1320",
+        "month" : "01",
+        "day" : "01"
+      }
+    ],
+    "cities" : [
+      "Dunstable",
+      "Canterbury",
+      "Norwich"
+    ],
+    "region" : "105",
+    "details" : "Probably the pinnacle of European technology in the Middle Ages, the mechanical clock was a major advancement in time keeping."
+  }
+]
